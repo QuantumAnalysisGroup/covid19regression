@@ -9,32 +9,32 @@ China
 <hr>
 
 USA
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/USA/20200416_COVID19_USA_CDF.png">
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/USA/20200416_COVID19_USA_NDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/USA/20200417_COVID19_USA_CDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/USA/20200417_COVID19_USA_NDF.png">
 <hr>
 
 Italy
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/Italy/20200416_COVID19_ITALY_CDF.png">
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/Italy/20200416_COVID19_ITALY_NDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/Italy/20200417_COVID19_ITALY_CDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/Italy/20200417_COVID19_ITALY_NDF.png">
 <hr>
 
 New York
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/NY/20200416_COVID19_NY_CDF.png">
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/NY/20200416_COVID19_NY_NDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/NY/20200417_COVID19_NY_CDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/NY/20200417_COVID19_NY_NDF.png">
 <hr>
 
 New Jersey
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/NJ/20200416_COVID19_NJ_CDF.png">
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/NJ/20200416_COVID19_NJ_NDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/NJ/20200417_COVID19_NJ_CDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/NJ/20200417_COVID19_NJ_NDF.png">
 <hr>
 
 Michigan
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/MI/20200416_COVID19_MI_CDF.png">
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/MI/20200416_COVID19_MI_NDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/MI/20200417_COVID19_MI_CDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/MI/20200417_COVID19_MI_NDF.png">
 <hr>
 
 Maryland
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/MD/20200416_COVID19_MD_CDF.png">
-<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/MD/20200416_COVID19_MD_NDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/MD/20200417_COVID19_MD_CDF.png">
+<img src="https://raw.githubusercontent.com/QuantumAnalysisGroup/covid19regression/master/April/MD/20200417_COVID19_MD_NDF.png">
 <hr>
 
